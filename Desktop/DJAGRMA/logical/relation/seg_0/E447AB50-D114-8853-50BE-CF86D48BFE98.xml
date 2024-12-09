@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_1" directorySegmentName="seg_0" id="E447AB50-D114-8853-50BE-CF86D48BFE98">
+<createdBy>pawma</createdBy>
+<createdTime>2024-12-09 19:58:32 UTC</createdTime>
+<ownerDesignName>DJAGRMA</ownerDesignName>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>29665F03-2830-2A9E-3824-065EAFBC42B1</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>9AD4BF15-D6DB-115A-F1EB-4A212364318D</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
