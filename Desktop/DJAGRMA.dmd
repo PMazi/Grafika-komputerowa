@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DJAGRMA" id="E64738F7-B40B-AD07-BF0F-670F5B6426B7" version="3.5">
-<createdBy>pawma</createdBy>
-<createdTime>2024-11-26 13:22:31 UTC</createdTime>
-<ownerDesignName>Diagram</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>E64738F7-B40B-AD07-BF0F-670F5B6426B7</designId>
-</OSDM_Design>

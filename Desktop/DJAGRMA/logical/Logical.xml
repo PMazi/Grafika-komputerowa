@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="E17B184E-8F92-B1CB-7C6E-85D41FE96B71" mainViewID="F8912AFB-7C1C-7C8D-36D3-F5B14617A232">
-<createdBy>pawma</createdBy>
-<createdTime>2024-12-09 19:57:31 UTC</createdTime>
-<ownerDesignName>DJAGRMA</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>
